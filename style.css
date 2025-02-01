@@ -1,0 +1,33 @@
+.container{
+overflow: hidden;
+text-align: center;
+}
+.header{
+    background-color: black;
+    height: 150px;
+    color: cornsilk;
+}
+.main{
+background-color: blue;
+width: 30%;
+height: 100px;
+float: left;
+}
+.box{
+    background-color: aqua;
+    width: 40%;
+    height: 100px;
+    float: left;
+}.about
+{
+    background-color: teal;
+    width: 25%;
+    height: 100px;
+    float: left;
+
+}
+.footer{
+    background-color: gray;
+    height: 200px;
+    clear: both;
+}
